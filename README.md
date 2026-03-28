@@ -1,4 +1,9 @@
-## Hi there 👋
+# Hi, I'm Ankita 👋
+
+🎓 Branch: Computer Science And Engineering(B.Tech)
+📅 Year: 1st year (2025-2029)
+
+🌱 I hope to learn more about AI, coding, and building useful real-world projects.
 
 <!--
 **ankitabytes/ankitabytes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
